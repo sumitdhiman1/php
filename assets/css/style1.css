@@ -1,0 +1,202 @@
+.navbar-inverse .navbar-nav>li>a{
+font-size: 16px;
+}
+fa fa-book{
+  padding: 0 50px 0 0;
+}
+.navbar-inverse .navbar-nav>li>a:hover{
+  color: grey;
+}
+
+li:hover{
+  color: grey;
+}
+
+
+
+.navbar-inverse{
+  background:#1B2631;
+  border:none;
+}
+.navbar-inverse .navbar-nav>li>a {
+     color: #fff;
+
+}
+.navbar-inverse .navbar-nav>.active>a{
+  background: rgba(0, 0, 0, 0.5);
+}
+h6{
+  color: white;
+  font-size: 16px;
+  padding: 5px 0 0 0;
+}
+
+.lg {
+ width: 209px;
+ height: 50px;
+
+}
+  /* Set height of the grid so .sidenav can be 100% (adjust if needed) */
+  .row.content {height: 1500px}
+
+  /* Set gray background color and 100% height */
+  .sidenav {
+    background-color: #f1f1f1;
+    height: 100%;
+  }
+
+  /* Set black background color, white text and some padding */
+
+
+  /* On small screens, set height to 'auto' for sidenav and grid */
+  @media screen and (max-width: 767px) {
+    .sidenav {
+      height: auto;
+      padding: 15px;
+    }
+    .row.content {height: auto;}
+  }
+  h6{
+    color: black;padding: 13px 0 0 0;
+    font-family: 'droid serif',serif;
+
+
+    float: right;
+  }
+  input{
+    width: 400px;
+  }
+  h2{
+   padding: 40px 0 0 0;
+   font-size: 20px;
+   text-align: center;
+
+  }
+  .nav-pills > li > a {
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    background: #1B2631;
+
+  }
+.ph{
+  margin:150px 0 0 0;
+  text-align: center;
+  border: 1px solid white;
+  border-radius: 50%;
+}
+.center{
+  border: 1px solid white;
+  border-radius: 5px;
+  background: white;
+
+
+
+
+
+}
+body{
+background: #f1f1f1;
+}
+#fom h6{
+color: black;
+float: right;
+padding: 0px;
+font-size: 17px;
+
+}
+
+#basicModa5 h4{
+
+
+
+font-size: 25px;
+text-align: center;
+}
+.image{
+width: 100%;
+margin: 50px 0 0 0;
+}
+label{
+  display: inline-block;
+  text-align: right;
+}
+#myModalLabe2{
+  text-align: center;
+}
+#loader {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  z-index: 1;
+  width: 150px;
+  height: 150px;
+  margin: -75px 0 0 -75px;
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  width: 120px;
+  height: 120px;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Add animation to "page content" */
+.animate-bottom {
+  position: relative;
+  -webkit-animation-name: animatebottom;
+  -webkit-animation-duration: 1s;
+  animation-name: animatebottom;
+  animation-duration: 1s
+}
+
+@-webkit-keyframes animatebottom {
+  from { bottom:-100px; opacity:0 }
+  to { bottom:0px; opacity:1 }
+}
+
+@keyframes animatebottom {
+  from{ bottom:-100px; opacity:0 }
+  to{ bottom:0; opacity:1 }
+}
+
+#myDiv {
+  display: none;
+  text-align: center;
+}
+#enquiry h6{
+  padding: 15px 0 0 0;
+  font-size: 25px;
+  font-family: 'droid serif',serif;
+}
+#myModalLabe3{
+  text-align: center;
+}
+.form-control{
+  font-size:17px;
+}
+.nod{
+  float: right;
+  font-size: 18px;
+  margin:10px 0 0 0;
+  font-family: 'droid serif',serif;
+}
+.nodd {
+  float: right;
+  font-size: 16px;
+  margin:10px 0 0 0;
+  font-family: 'droid serif',serif;
+}
+#myModalLabe4{
+  text-align: center;
+}

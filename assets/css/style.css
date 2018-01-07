@@ -1,0 +1,109 @@
+#logo img{
+  width: 250px;
+  height: 100px;
+}
+
+
+
+#input h6{
+font-size: 20px;
+  text-align: right;
+  margin: 10px;
+padding: 20px 0 0 0;
+font-family: 'droid serif',serif;
+
+}
+#input i{
+  color: #3b5998;
+  font-size: 22px;
+  padding: 0 10px 0 0;
+}
+#input p{
+  padding: 0 0 5px 40px;
+}
+
+button{
+  padding: 10px;
+  border: 1px solid darkgrey;
+  background: white;
+  border-radius: 2px;
+}
+
+
+
+#logo h2{
+  font-size: 15px;
+    float: right;
+    margin: 45px 100px 0 0;
+      font-family: 'droid serif',serif;
+}
+#login h1{
+  color: white;
+  margin:0 0 30px 0;
+  font-size: 35px;
+  background: #1B2631;
+  text-align: center;
+  padding: 12px 0 12px 0;
+
+
+}
+#input input{
+font-size: 17px;
+margin: 0 0 7px 0;
+width: 400px;
+
+}
+.nod{
+  float: right;
+  font-size: 18px;
+  margin:10px 0 0 0;
+  font-family: 'droid serif',serif;
+}
+
+
+
+
+
+
+/*
+#up i{
+  font-size: 35px;
+
+  float: right;
+  width: auto;
+  max-width: 400px;
+  word-break: break-all;
+}
+#up button{
+margin: 30px 0 0 0;
+  font-size: 30px;
+
+}  font-size: 20px;
+  float: right;
+  margin: 45px 100px 0 0;
+    font-family: 'droid serif',serif;
+
+ p{
+  font-size: 25px;
+  color: white;
+  padding: 15px 0 0 0;
+}
+#up .pp{
+  font-size: 15px;
+  text-align: inherit;
+
+  padding: 10px 0 0 0;
+}
+body{
+  background:black;
+  text-align: center;
+}
+input{
+  width: 600px;
+  height: 40px;
+  padding: 0 40px;
+  font-size: 20px;
+}
+button{
+  padding: 40px;
+*/
